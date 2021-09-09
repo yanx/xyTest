@@ -1,0 +1,6 @@
+Please download browser derivers and save into this folder
+https://www.seleniumhq.org/download/
+
+chromedriver.exe
+geckodriver.exe
+IEDriverServer.exe
